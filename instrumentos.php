@@ -47,19 +47,14 @@
 
     <div class="container text-center mt-5 mb-2">
         <h1 class="mb-0">Instrumentos de Gestión Ambiental</h1>
-        <div class="dj-banner">
-            <div class="dj-bg mb-4 mt-4">
-                <img src="img/miembros/gest_ambiental.jpg" alt="" height="365px">
-            </div>
-        </div>        
+      
     </div>
 
     </div>
 
     <div class="container mt-3">
         <div class="row">
-            <iframe src="https://portal.unas.edu.pe/instrumentos-gestion-ambiental" frameborder="0" width="100%" height="300" style="border:1px solid black;">
-
+            <iframe src="https://portal.unas.edu.pe/instrumentos-gestion-ambiental" class="embed-responsive-item" frameborder="0" width="100%" height="800">
             </iframe>
         </div>
     </div>
